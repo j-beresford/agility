@@ -16,6 +16,7 @@ body {
     color: royalblue;
     font-size: 4vw;
     padding: 3vw;
+    text-decoration: none;
   }
 
   .topnav a:hover {
@@ -41,7 +42,7 @@ body {
     color: white;
     text-align: center;
     width: 100%;
-    padding: 1vw;
+    height: 5vw;
     margin-bottom: 2vw;
     }
 
