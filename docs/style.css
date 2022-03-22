@@ -8,13 +8,12 @@ body {
   }
 
   .topnav {
-    background-color: royalblue;
     overflow: hidden;
   }
   
   .topnav a {
     text-align: center;
-    color: whitesmoke;
+    color: royalblue;
     font-size: large;
     padding: 2%;
   }
