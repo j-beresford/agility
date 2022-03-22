@@ -1,9 +1,6 @@
-const footerTop = document.getElementById('footTop');
+const footerTop = document.getElementById('footTop')
 
-footerTop.style.position = 'relative';
-footerTop.style.top = '10px';
-footerTop.style.color = "red"
-
-console.log(footerTop.style.top)
-
+footerTop.style.background="darkblue"
+footerTop.style.color="white"
+footerTop.style.textAlign="center"
 
