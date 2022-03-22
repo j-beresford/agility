@@ -4,14 +4,18 @@ body {
   
   .topnav {
     overflow: hidden;
-    padding-bottom: 1vw;
+    padding-bottom: 5vw;
     margin-bottom: 1vw;
+    position: absolute;
+    right: 0;
+    top: 4vw;
   }
   
   .topnav a {
     text-align: center;
     color: royalblue;
-    font-size: 5vw;
+    font-size: 4vw;
+    padding: 3vw;
   }
 
   .topnav a:hover {
@@ -26,16 +30,19 @@ body {
 
   .logo-img{
     width: 10vw;
-    height:8vw
+    height:8vw;
+    position: relative;
+    left: 0;
+    top: 0;
   }
 
   .banner {
     background-color: royalblue;
     color: white;
     text-align: center;
+    width: 100%;
     padding: 1vw;
-    margin-bottom: 5vw;
-  }
+    }
 
 
   .grid-container {
