@@ -1,4 +1,5 @@
-# agility
-Having a go at a git hosted webscite
+# Dog Agility Courses in the Community
 
-<a>https://j-beresford.github.io/agility/<a>
+Hobby business idea. 
+
+Website available at: <a>https://j-beresford.github.io/agility/<a>
