@@ -42,6 +42,7 @@ body {
     text-align: center;
     width: 100%;
     padding: 1vw;
+    margin-bottom: 2vw;
     }
 
 
@@ -54,4 +55,13 @@ body {
   .grid-home {
     background-color: white;
     padding: 1vw;
+  }
+
+  .footer-bottom {
+    background-color: royalblue;
+    text-align: center;
+    color: white;
+    bottom: 0;
+    left: 0;
+    width: 100%;
   }
