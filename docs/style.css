@@ -4,29 +4,32 @@ body {
   
   .topnav {
     overflow: hidden;
-    padding-bottom: 2%;
+    padding-bottom: 1vw;
+    margin-bottom: 0.5vw;
   }
   
   .topnav a {
     text-align: center;
     color: royalblue;
-    font-size: large;
-    padding: 2%;
+    font-size: 5vw;
   }
 
   .topnav a:hover {
-    background-color: green;
+    background-color: royalblue;
+    color: white;
   }
   
   .topnav a.active{
-    background-color: green;
+    background-color: royalblue;
+    color: white;
   }
 
   .banner {
     background-color: royalblue;
     color: white;
     text-align: center;
-    padding: 1px;
+    padding: 1vw;
+    margin-bottom: 0.5vw;
   }
 
 
