@@ -1,8 +1,46 @@
 body {
-    background-color: rgb(71, 231, 98);
+    background-color: rgb(242, 243, 242);
   }
   
   h1 {
-    color: navy;
+    color: royalblue;
     margin-left: 20px;
+  }
+
+  .topnav {
+    background-color: royalblue;
+    overflow: hidden;
+  }
+  
+  .topnav a {
+    text-align: center;
+    color: whitesmoke;
+    font-size: large;
+    padding: 2%;
+  }
+
+  .topnav a:hover {
+    background-color: green;
+  }
+  
+  .topnav a.active{
+    background-color: green;
+  }
+
+  .grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 10px;
+  }
+
+  .grid-what {
+    background-color: white;
+  }
+
+  .grid-how {
+    background-color: white;
+  }
+
+  .grid-join {
+    background-color: white;
   }
