@@ -2,13 +2,9 @@ body {
     background-color: rgb(242, 243, 242);
   }
   
-  h1 {
-    color: royalblue;
-    margin-left: 20px;
-  }
-
   .topnav {
     overflow: hidden;
+    padding-bottom: 2%;
   }
   
   .topnav a {
@@ -25,6 +21,14 @@ body {
   .topnav a.active{
     background-color: green;
   }
+
+  .banner {
+    background-color: royalblue;
+    color: white;
+    text-align: center;
+    padding: 1px;
+  }
+
 
   .grid-container {
     display: grid;
